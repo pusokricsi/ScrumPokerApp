@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.scrumpokeradmin.Activity.LoginActivity;
-import com.example.scrumpokeradmin.MyQuestionItemRecyclerViewAdapter;
+import com.example.scrumpokeradmin.Adapter.MyQuestionItemRecyclerViewAdapter;
 import com.example.scrumpokeradmin.R;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
